@@ -1,6 +1,5 @@
 package myapp;
 
-import java.io.Serializable;
+public class Cat  extends Dog{
 
-public class Cat implements Serializable {
 }
